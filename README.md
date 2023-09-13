@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeVetal&show_icons=true&include_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="HeVetal's github stats"/>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeVetal&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeVetal&repo=github-readme-stats)](https://github.com/HeVetal/github-readme-stats)
