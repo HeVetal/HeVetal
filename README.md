@@ -21,10 +21,3 @@ Here are some ideas to get you started:
 </a>
 
 
-<!-- Light Mode -->
-<div align="center">
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=HeVetal\&layout=compact&langs_count=4">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HeVetal&show_icons=true&include_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="HeVetal's github stats"/>
-</a>
-
-
