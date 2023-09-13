@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I,m Vetal👋
 
 <!--
 **HeVetal/HeVetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,12 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeVetal&show_icons=true&include_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="HeVetal's github stats"/>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeVetal&repo=github-readme-stats)](https://github.com/HeVetal/github-readme-stats)
+
+<!-- Light Mode -->
+<div align="center">
+<--//"https://github-readme-stats.vercel.app/api?username=HeVetal&show_icons=true&include_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true-->
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=HeVetal\&layout=compact&langs_count=4">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HeVetal&show_icons=true&include_commits=true&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default&hide_border=true" alt="HeVetal's github stats"/>
+</a>
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeVetal&repo=github-readme-stats)](https://github.com/HeVetal/github-readme-stats)-->
